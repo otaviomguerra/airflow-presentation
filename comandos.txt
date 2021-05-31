@@ -1,0 +1,6 @@
+1) subir o ambiente
+
+2) executar task em particular:
+
+Entrar no container do scheduler e executar:
+    airflow tasks test demo_dag is_forex_rates_available 2020-01-01
